@@ -1,0 +1,30 @@
+body
+{
+	background-color: black
+
+}
+.navbar-inverse
+{
+	background-color: black
+	
+}
+
+.btn-primary
+{
+	background-color: black
+}
+
+.btn-default
+{
+	background-color: black
+}
+.navbar-wrapper {
+    margin-top: 10px;
+    color: #5a5a5a;
+
+}
+.navbar-wrapper > .container {
+  padding-right: 10;
+  padding-left: 10;
+}
+
