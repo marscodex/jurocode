@@ -74,12 +74,12 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> '',
+	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=lsmdb;user=jurocode;password=jupiter28',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'username' => 'postgres',
+	'password' => 'Juxxymars11',
 	'database' => 'lsmdb',
-	'dbdriver' => 'mysqli',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
