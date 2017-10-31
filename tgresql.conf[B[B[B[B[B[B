@@ -1,0 +1,54 @@
+[33mcommit 1e7dd8b60696515c82f12b4ce1de7b676512ed2b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Fri Oct 6 10:08:10 2017 +0300
+
+    config and database
+
+[33mcommit b63115e22483b269224ab26acb932c5970977fec[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Fri Oct 6 10:05:24 2017 +0300
+
+    config updated
+
+[33mcommit 6c044f86750ce08cffba233bb6e64f00337e4874[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Thu Sep 28 14:49:26 2017 +0300
+
+    just modified
+
+[33mcommit 91d0d2703470c759f21c6a238089b13aa609f0b3[m
+Merge: 37b9ee9 55c7d75
+Author: mars code <juxxymars@gmail.com>
+Date:   Thu Sep 28 13:01:05 2017 +0300
+
+    Merge branch 'master' of https://github.com/marscodex/jurocode
+
+[33mcommit 37b9ee9aea4e7d9f9b3fccc8576ae75bdf750d17[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Thu Sep 28 13:00:17 2017 +0300
+
+    composer.phar
+
+[33mcommit 55c7d759a6b53e33d2050b3846097da5d80e57ca[m
+Author: marscodex <juxxymars@gmail.com>
+Date:   Thu Sep 28 12:58:18 2017 +0300
+
+    Delete composer.phar
+
+[33mcommit 57c69df0b3c593741202dcff496668ec02dbcb14[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Thu Sep 28 10:15:08 2017 +0300
+
+    new composer.json
+
+[33mcommit 29cab01e0024765e214921e446b2d4f3b9cf04af[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Fri Sep 15 11:06:29 2017 +0300
+
+    composer updated
+
+[33mcommit 5fd73700a402bdc567766d9e7fc874dd85f1560d[m
+Author: mars code <juxxymars@gmail.com>
+Date:   Wed Sep 13 13:25:35 2017 +0300
+
+    first time
