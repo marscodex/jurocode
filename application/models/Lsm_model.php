@@ -22,15 +22,15 @@ class Lsm_model extends CI_Model{
 
 	}
 
-	public function get_comment($id){
+	// public function get_comment($id){
 	
-			if($id != FALSE){
-			$query = $this->db->get_where('comment', array('id => $id'));
-			return $query->row_array();
-		}
-		else {
-			return FALSE;
-		}
-	}
+	// 		if($id != FALSE){
+	// 		$query = $this->db->get_where('comment', array('id => $id'));
+	// 		return $query->row_array();
+	// 	}
+	// 	else {
+	// 		return FALSE;
+	// 	}
+	// }
 
 }
