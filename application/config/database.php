@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'postgres',
 	'password' => 'Juxxymars11',
 	'database' => 'lsmdb',
-	'dbdriver' => 'postgre',
+	'dbdriver' => 'pgsql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
