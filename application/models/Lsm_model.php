@@ -8,9 +8,9 @@ class Lsm_model extends CI_Model{
 
 		$data = array(
 
-			'Name' => $name,
-			'Email' => $email,
-			'Leave_comment' => $leave_comment
+			'name' => $name,
+			'email' => $email,
+			'leave_comment' => $leave_comment
 		);
 
 		$this->session->set_userdata('comment', $data);
